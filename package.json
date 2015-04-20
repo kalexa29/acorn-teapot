@@ -10,5 +10,5 @@
     "dependencies": {
         "node" : "x.10.36",
         "express": "~4.9.x"
-    },
+    }
 }
