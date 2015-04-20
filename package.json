@@ -8,7 +8,9 @@
         "url" : "https://github.com/kalexa29/acorn-teapot.git"
     },
     "scripts": {
-        "start": "node etsyScript.js"
+        "start": "node etsyScript.js",
+        "test": "mocha", //idk if this is necessary
+        "postinstall": "bower install && grunt build" //or this...
     },
     "engines": {
         "node" : "0.10.36",
