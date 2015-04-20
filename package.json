@@ -3,6 +3,10 @@
     "version": "x.x.x",
     "description": "Project 1 application for csci 344",
     "constributors" : "Katelynn Alexander",
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/kalexa29/acorn-teapot.git"
+    },
     "dependencies": {
         "node" : "x.10.36",
         "express": "~4.9.x"
