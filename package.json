@@ -1,0 +1,10 @@
+{
+    "name": "acorn-teapot",
+    "version": "x.x.x",
+    "description": "Project 1 application for csci 344",
+    "constributors" : "Katelynn Alexander",
+    "dependencies": {
+        "node" : "x.10.36",
+        "express": "~4.9.x"
+    },
+}
