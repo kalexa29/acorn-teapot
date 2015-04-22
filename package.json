@@ -6,7 +6,7 @@
     "constributors": "Katelynn Alexander",
     "repository": {
         "type": "git",
-        "url": "https://git.heroku.com/acorn-teapot.git" //remote url
+        "url": "https://github.com/kalexa29/acorn-teapot.git" 
     },
     "scripts": {
         "start": "node server.js"
