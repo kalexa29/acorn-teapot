@@ -8,9 +8,10 @@
         "url" : "https://github.com/kalexa29/acorn-teapot.git"
     },
     "scripts": {
-        "start": "node etsyScript.js",
-        "start": "node pinit_main.js", //I'm not sure if this is needed
-        "start": "pinit.js" //or this...
+        "start": "node server.js"
+        //"start": "node etsyScript.js",
+        //"start": "node pinit_main.js", //I'm not sure if this is needed
+        //"start": "pinit.js" //or this...
     },
     "engines": {
         "node" : "0.10.36",
